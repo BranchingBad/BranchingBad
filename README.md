@@ -6,11 +6,11 @@ Production support analyst
 
 Interested in #linux #podman #rhel #rdms #java #python #csharp #bash #ansible #fedora #raspberrypi
 
-* 🌍  I'm based in Pattaya City, Thailand
+* 🌍  I'm in Manila, Philippines
 * ✉️  You can contact me at [stephen.ancliffe@gmail.com](mailto:stephen.ancliffe@gmail.com)
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on KODI projects
-* ⚡  Currently looking for employment
+* ⚡  Currently looking for employment while travelling in south east Asia
 
 ### Skills
 
