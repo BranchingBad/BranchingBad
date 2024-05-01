@@ -1,16 +1,13 @@
 Hi 👋 My name is Stephen Ancliffe
 =================================
 
-Production support analyst
---------------------------
+Im'm interested in #linux #podman #rhel #rdms #java #python #csharp #bash #ansible #fedora #raspberrypi
 
-Interested in #linux #podman #rhel #rdms #java #python #csharp #bash #ansible #fedora #raspberrypi
-
-* 🌍  I'm in Phnom Penh, Cambodia
+* 🌍  I'm in Toronto Ontario, Canada
 * ✉️  You can contact me at [stephen.ancliffe@gmail.com](mailto:stephen.ancliffe@gmail.com)
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on KODI projects
-* ⚡  Currently looking for employment while travelling in south east Asia
+* ⚡  Currently looking for employment in Canada and South East Asia
 
 ### Skills
 
