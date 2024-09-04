@@ -1,11 +1,11 @@
-Hi 👋 My name is Stephen Ancliffe
+Hi 👋 My name is Stephen
 =================================
 
 Im'm interested in #linux #podman #rhel #rdms #java #python #csharp #bash #ansible #fedora #raspberrypi
-* 🌍  I'm in Toronto Ontario, Canada
-* ✉️  You can contact me at [stephen.ancliffe@gmail.com](mailto:stephen.ancliffe@gmail.com)
+* 🌍  Located in Toronto, Ontario, Canada
+* ✉️  Feel free to reach out at [stephen.ancliffe@gmail.com](mailto:stephen.ancliffe@gmail.com)
 * 🧠  I'm learning Python
-* ⚡  Currently looking for employment in Canada and South East Asia
+* ⚡  Open to opportunities in Canada and Southeast Asia
 
 ### Development:
 <p align="left">
