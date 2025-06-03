@@ -5,7 +5,7 @@ Im'm interested in #linux #podman #rhel #rdms #java #python #csharp #bash #ansib
 * 🌍  Located in Toronto, Ontario, Canada
 * ✉️  Feel free to reach out at [stephen.ancliffe@gmail.com](mailto:stephen.ancliffe@gmail.com)
 * 🧠  I'm learning Python
-* ⚡  Open to opportunities in Canada and Southeast Asia
+* ⚡  Open to opportunities in Canada and Southeast Asia. Will work for minium wage.
 
 ### Development:
 <p align="left">
@@ -36,7 +36,7 @@ Im'm interested in #linux #podman #rhel #rdms #java #python #csharp #bash #ansib
 
 ### Socials
 <p align="left"> 
-  <a href="https://www.github.com/OddRefrigerator" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+  <a href="https://www.github.com/TheCommitStrip" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
   <a href="https://www.stackoverflow.com/users/10457451" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
 </p>
 
