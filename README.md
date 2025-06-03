@@ -28,7 +28,7 @@ Im'm interested in #linux #podman #rhel #rdms #java #python #csharp #bash #ansib
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
   </a>
   <a href="https://www.gnu.org/software/bash/" target="blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" />
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/refs/heads/main/public/icons/skills/gnubash-colored.svg" width="36" height="36" alt="GNU Bash" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/refs/heads/main/public/icons/skills/powershell-colored.svg" width="36" height="36" alt="Powershell" />
