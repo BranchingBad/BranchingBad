@@ -37,13 +37,4 @@ Im'm interested in #linux #podman #rhel #rdms #java #python #csharp #bash #ansib
   <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 </p>
 
-### Socials
-<p align="left">
-  <a href="https://www.github.com/TheCommitStrip" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-  <a href="https://www.stackoverflow.com/users/10457451" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-</p>
 
-### Support Me
-<p align="left">
-  <a href="https://www.buymeacoffee.com/stephen.anc"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-</p>
