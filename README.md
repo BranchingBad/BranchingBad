@@ -3,8 +3,8 @@ Hi 👋 My name is Stephen
 
 Im'm interested in #linux #podman #rhel #rdms #java #python #csharp #bash #ansible #fedora #raspberrypi
 * 🌍  Located in Toronto, Ontario, Canada
-* ✉️  Feel free to reach out at [stephen.ancliffe@gmail.com](mailto:stephen.ancliffe@gmail.com)
-* 🧠  I'm learning Python
+* ✉️  Feel free to reach out at [stephen.ancliffe@gmail.com](mailto:stephen.ancliffe@outlook.com)
+* 🧠  I'm learning SDN Networking and Python
 * ⚡  Open to opportunities in Canada and Southeast Asia. Will work for minium wage.
 
 ### Development:
