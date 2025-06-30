@@ -1,12 +1,12 @@
-Hi 👋 My name is Stephen
+Hi my name is Stephen
 =================================
 
-Im'm interested in #linux #podman #rhel #rdms #java #python #csharp #bash #ansible #fedora #raspberrypi
-* 🌍  Located in Toronto, Ontario, Canada
-* ✉️  Feel free to reach out at [stephen.ancliffe@gmail.com](mailto:stephen.ancliffe@outlook.com)
-* 🧠  I'm learning SDN Networking and Python
-* ⚡  Open to opportunities in Canada and Southeast Asia. Will work for minium wage.
+Enthusiastic about Linux, Cloud technologies (Podman, RHEL), automation (Ansible, Bash), and development (Python, Java, C#). 
 
+* 🌍  Located in Toronto, but open to opportunities in both Canada and Southeast Asia.
+* ✉️  Connect with me at [stephen.ancliffe@gmail.com](mailto:stephen.ancliffe@outlook.com)
+* 🧠  I'm currently focused on learning SDN Networking and enhancing my Python skills.
+  
 ### Development:
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/refs/heads/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" /></a>
