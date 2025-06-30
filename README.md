@@ -37,4 +37,8 @@ Enthusiastic about Linux, Cloud technologies (Podman, RHEL), automation (Ansible
   <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 </p>
 
+### Certs:
+<p align="left">
+  <a href="https://www.comptia.com/" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/680x680/images/f308a5b0-18e3-4e93-ae15-9f27dd0a94cc/CompTIA_CNIP.png" width="36" height="36" alt="MySQL" /></a>
+</p>
 
