@@ -44,6 +44,6 @@ Enthusiastic about Linux, Cloud technologies (Podman, RHEL), automation (Ansible
     <a href="https://www.credly.com/badges/5575b431-8c47-437f-bd5f-2680f954f3de/public_url" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/680x680/images/8293972f-573a-4d0b-be14-0bcb65e80b16/blob" width="76" height="76" alt="server" /></a>
       <a href="https://www.credly.com/badges/cb8ca8ad-22e5-4220-b071-474caf04cbb5/public_url" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/680x680/images/c8ba8fa6-ab8b-4df7-879f-4ae7b98b2765/blob" width="76" height="76" alt="linux" /></a>
       <a href="https://www.credly.com/badges/445b9798-60ee-45d4-8cb8-ac71b19c8f17/public_url" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/680x680/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="76" height="76" alt="security" /></a>
-      <a href="https://www.credly.com/badges/8a51eb8a-5540-4242-a148-b2e91857c840/public_url" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/680x680/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" width="76" height="76" alt="network /></a>
+      <a href="https://www.credly.com/badges/8a51eb8a-5540-4242-a148-b2e91857c840/public_url" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/680x680/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" width="76" height="76" alt="network" /></a>
 </p>
 
