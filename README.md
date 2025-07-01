@@ -46,5 +46,6 @@ Enthusiastic about Linux, Cloud technologies (Podman, RHEL), automation (Ansible
       <a href="https://www.credly.com/badges/8a51eb8a-5540-4242-a148-b2e91857c840/public_url" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/680x680/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" width="76" height="76" alt="network" /></a>
     <a href="https://www.credly.com/badges/31b89a10-9231-480e-bfd0-91e3dbee585c/public_url" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/680x680/images/f308a5b0-18e3-4e93-ae15-9f27dd0a94cc/CompTIA_CNIP.png" width="76" height="76" alt="CNIP" /></a>
     <a href="https://www.credly.com/badges/df7d6e97-3a23-4ae5-9978-baf35144594a/public_url" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/680x680/images/d68e17f2-b591-4f2e-ae64-414ba82665f4/CompTIA_CLNP.png" width="76" height="76" alt="CLNP" /></a>
+      <a href="https://www.credly.com/earner/earned/badge/95b670b6-d2de-4ed4-a76a-026301bf8293" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/680x680/images/ba1b8072-8ebe-432c-88e5-05bc809c624a/CompTIA_CSAP.png" width="76" height="76" alt="CSAP" /></a>
 </p>
 
