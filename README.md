@@ -31,6 +31,7 @@ Enthusiastic about Linux, Cloud technologies (Podman, RHEL), automation (Ansible
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/gnubash-colored.svg" width="36" height="36" alt="GNU Bash" /></a>
   <a href="https://microsoft.com/powershell" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/powershell-colored.svg" width="36" height="36" alt="Powershell" /></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/python-colored.svg" width="36" height="36" alt="Python" /></a>
+  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/ansible.svg" width="36" height="36" alt="Python" /></a>
 </p>
 
 ### System Administration:
