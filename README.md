@@ -34,13 +34,14 @@ Enthusiastic about Linux, Cloud technologies (Podman, RHEL), automation (Ansible
 
 ### System Administration:
 <p align="left">
+  <a href="https://www.microsoft.com/en-ca/windows" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/Windows_logo_-_2021.svg" width="36" height="36" alt="Windows" /><a>
   <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /><a>
-  <a href="https://www.microsoft.com/en-ca/windows" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/Windows_logo_-_2021.svg" width="36" height="36" alt="Raspberry Pi" /><a>
 </p>
 
 ### Databases:
 <p align="left">
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/mssql.svg" width="36" height="36" alt="MsSQL" /></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
