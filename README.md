@@ -44,6 +44,7 @@ Enthusiastic about Linux, Cloud technologies (Podman, RHEL), automation (Ansible
 <p align="left">
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/mssql.svg" width="36" height="36" alt="MsSQL" /></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+  <a href="https://mariadb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/mariadb.svg" width="36" height="36" alt="mariaDB" /></a>
 </p>
 
 ### Design:
