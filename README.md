@@ -3,7 +3,7 @@ Hi my name is Stephen
 
 Enthusiastic about Linux, Cloud technologies (Podman, RHEL), automation (Ansible, Bash), and development (Python, Java, C#). 
 
-* 🌍  I am located in Toronto, but I am open to opportunities in Canada, Mexico, Central America and other countries.
+* 🌍 My current location is Toronto, but I'm actively seeking roles in Canada, Mexico, Central America, and internationally, provided I can obtain the necessary work visa.
 * ✉️  Connect with me at [stephen.ancliffe@outlook.com](mailto:stephen.ancliffe@outlook.com)
 * 🧠  I'm currently focused on learning SDN Networking and enhancing my Python skills.
 
