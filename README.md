@@ -16,7 +16,7 @@ Enthusiastic about Linux, Cloud technologies (Podman, RHEL), automation (Ansible
       <a href="https://www.credly.com/badges/8a51eb8a-5540-4242-a148-b2e91857c840/public_url" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/network.png" width="76" height="76" alt="network" /></a>
     <a href="https://www.credly.com/badges/31b89a10-9231-480e-bfd0-91e3dbee585c/public_url" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/cnip.png" width="76" height="76" alt="CNIP" /></a>
     <a href="https://www.credly.com/badges/df7d6e97-3a23-4ae5-9978-baf35144594a/public_url" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/clnp.png" width="76" height="76" alt="CLNP" /></a>
-      <a href="https://www.credly.com/earner/earned/badge/95b670b6-d2de-4ed4-a76a-026301bf8293" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/csap.png" width="76" height="76" alt="CSAP" /></a>
+    <a href="https://www.credly.com/badges/95b670b6-d2de-4ed4-a76a-026301bf8293/public_url" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/csap.png" width="76" height="76" alt="CSAP" /></a>
 </p>
 
 ### Development:
