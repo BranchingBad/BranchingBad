@@ -9,8 +9,8 @@ Enthusiastic about Linux, Cloud technologies (Podman, RHEL), automation (Ansible
 
 ### Certifications:
 <p align="left">
-      <a href="https://www.credly.com/badges/867dd6d5-5be8-43d9-92a4-28935112cedf/public_url" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/cloud.png" width="76" height="76" alt="cloud" /></a>
       <a href="https://www.credly.com/badges/fa79245a-bc6a-4a31-b9b9-f57512e4c1c0/public_url" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/cysa.png" width="76" height="76" alt="cysa" /></a>
+      <a href="https://www.credly.com/badges/867dd6d5-5be8-43d9-92a4-28935112cedf/public_url" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/cloud.png" width="76" height="76" alt="cloud" /></a>
     <a href="https://www.credly.com/badges/5575b431-8c47-437f-bd5f-2680f954f3de/public_url" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/server.png" width="76" height="76" alt="server" /></a>
       <a href="https://www.credly.com/badges/cb8ca8ad-22e5-4220-b071-474caf04cbb5/public_url" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/linux.png" width="76" height="76" alt="linux" /></a>
       <a href="https://www.credly.com/badges/445b9798-60ee-45d4-8cb8-ac71b19c8f17/public_url" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/security.png" width="76" height="76" alt="security" /></a>
