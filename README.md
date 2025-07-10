@@ -17,13 +17,9 @@ Enthusiastic about Linux, Cloud technologies (Podman, RHEL), automation (Ansible
       <a href="https://www.credly.com/badges/8a51eb8a-5540-4242-a148-b2e91857c840/public_url" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/network.png" width="76" height="76" alt="network" /></a>
     <a href="https://www.credly.com/badges/31b89a10-9231-480e-bfd0-91e3dbee585c/public_url" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/cnip.png" width="76" height="76" alt="CNIP" /></a>
     <a href="https://www.credly.com/badges/df7d6e97-3a23-4ae5-9978-baf35144594a/public_url" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/clnp.png" width="76" height="76" alt="CLNP" /></a>
-<<<<<<< HEAD
       <a href="https://www.credly.com/badges/95b670b6-d2de-4ed4-a76a-026301bf8293/public_url" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/csap.png" width="76" height="76" alt="CSAP" /></a>
       <a href="https://www.credly.com/badges/9244e1ab-9c43-4453-bd1c-92177eaff966/public_url" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/ccap.png" width="76" height="76" alt="CCAP" /></a>
       <a href="https://www.credly.com/badges/8f5bab63-e4f3-4162-b004-ef5c4abf4f1f/public_url" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/cscp.png" width="76" height="76" alt="CSCP" /></a>           
-=======
-    <a href="https://www.credly.com/badges/95b670b6-d2de-4ed4-a76a-026301bf8293/public_url" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/csap.png" width="76" height="76" alt="CSAP" /></a>
->>>>>>> 33e76872851c2a34f49105096254dbcfe28c86b5
 </p>
 
 ### Development:
