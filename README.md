@@ -4,8 +4,10 @@ Hi my name is Stephen
 Enthusiastic about Linux, Cloud technologies (Podman, RHEL), automation (Ansible, Bash), and development (Python, Java, C#). 
 
 * 🧠  I'm currently focused on learning SDN Networking, cybersecurity and enhancing my Python skills.
+* 🌍  I'm located in Toronto, but I'm open to opportunities in Canada, Mexico, Costa Rica, Central America, and other countries. I'm also open to any countries where it doesn't snow.
+* ✉️  Connect with me at [stephen.ancliffe@outlook.com](mailto:stephen.ancliffe@outlook.com)
 
-### Certifications:
+### Certificatio
 <p align="left">
       <a href="https://www.credly.com/badges/fa79245a-bc6a-4a31-b9b9-f57512e4c1c0/public_url" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/cysa.png" width="76" height="76" alt="cysa" /></a>
       <a href="https://www.credly.com/badges/867dd6d5-5be8-43d9-92a4-28935112cedf/public_url" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/cloud.png" width="76" height="76" alt="cloud" /></a>
