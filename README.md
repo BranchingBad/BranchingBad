@@ -4,6 +4,7 @@ Hi my name is Stephen
 Enthusiastic about Linux, Cloud technologies (Podman, RHEL), automation (Ansible, Bash), and development (Python, Java, C#). 
 
 Available for employment at minimum wage, primarily seeking opportunities in Canada or other countries that offer work permit options.
+Link to resume on Google Docs https://docs.google.com/document/d/196hLf7FrQDuSaeHWiEuJIcC17CyI9uxfm5q4i7KGTak/edit?usp=sharing
 
 * 🧠  I'm currently focused on learning SDN Networking, cybersecurity and enhancing my Python skills.
 
