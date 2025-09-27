@@ -5,7 +5,8 @@ Enthusiastic about Linux, Cloud technologies (Podman, RHEL), automation (Ansible
 
 Seeking employment opportunities, particularly those outside of Canada or countries that offer work permit options.
 
-Resume available via Google Docs https://docs.google.com/document/d/196hLf7FrQDuSaeHWiEuJIcC17CyI9uxfm5q4i7KGTak/edit?usp=sharing
+Resume available via Google Docs 
+https://docs.google.com/document/d/196hLf7FrQDuSaeHWiEuJIcC17CyI9uxfm5q4i7KGTak/edit?usp=sharing
 
 * 🧠  I'm currently focused on learning AI, SDN Networking, cybersecurity and enhancing my Python skills.
 
