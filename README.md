@@ -9,7 +9,7 @@ Resume available via Google Docs
 
 https://docs.google.com/document/d/196hLf7FrQDuSaeHWiEuJIcC17CyI9uxfm5q4i7KGTak/edit?usp=sharing
 
-* 🧠  I'm currently focused on learning AI, cybersecurity and enhancing my Python skills.
+* 🧠  I'm currently focused on learning AI, prompt enginering, cybersecurity and enhancing my Python skills.
 
 ### Certifications:
 <p align="left">
