@@ -1,17 +1,17 @@
-Hi my name is Stephen
-=================================
+# Hi my name is Stephen
 
 Enthusiastic about Linux, Cloud technologies (Podman, RHEL), automation (Ansible, Bash), and development (Python, Java, C#). 
 
-Seeking employment opportunities, particularly those outside of Canada or countries that offer work permit options.
+* 🧠  I'm currently focused on learning AI, prompt enginering, cybersecurity and enhancing my Python skills.
 
-Resume available via Google Docs
+## Resume available via Google Docs
+
+Seeking employment opportunities, particularly those outside of Canada or countries that offer work permit options.
 
 https://docs.google.com/document/d/196hLf7FrQDuSaeHWiEuJIcC17CyI9uxfm5q4i7KGTak/edit?usp=sharing
 
-* 🧠  I'm currently focused on learning AI, prompt enginering, cybersecurity and enhancing my Python skills.
-
 ### Certifications:
+
 <p align="left">
      <a href="https://www.credly.com/badges/06c733b1-dac7-4a79-af63-6d8d4793d472/public_url" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/pentest.png" width="76" height="76" alt="pentest" /></a>
       <a href="https://www.credly.com/badges/fa79245a-bc6a-4a31-b9b9-f57512e4c1c0/public_url" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/cysa.png" width="76" height="76" alt="cysa" /></a>
@@ -30,6 +30,7 @@ https://docs.google.com/document/d/196hLf7FrQDuSaeHWiEuJIcC17CyI9uxfm5q4i7KGTak/
 </p>
 
 ### Development:
+
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -45,6 +46,7 @@ https://docs.google.com/document/d/196hLf7FrQDuSaeHWiEuJIcC17CyI9uxfm5q4i7KGTak/
 </p>
 
 ### System Administration:
+
 <p align="left">
   <a href="https://www.microsoft.com/en-ca/windows" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/Windows_logo_-_2021.svg" width="36" height="36" alt="Windows" /><a>
   <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
@@ -52,6 +54,7 @@ https://docs.google.com/document/d/196hLf7FrQDuSaeHWiEuJIcC17CyI9uxfm5q4i7KGTak/
 </p>
 
 ### Databases:
+
 <p align="left">
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/mssql.svg" width="36" height="36" alt="MsSQL" /></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
@@ -59,6 +62,7 @@ https://docs.google.com/document/d/196hLf7FrQDuSaeHWiEuJIcC17CyI9uxfm5q4i7KGTak/
 </p>
 
 ### Design:
+
 <p align="left">
   <a href="https://www.adobe.com/ca/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
   <a href="https://www.adobe.com/ca/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
