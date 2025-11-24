@@ -13,6 +13,7 @@ https://docs.google.com/document/d/196hLf7FrQDuSaeHWiEuJIcC17CyI9uxfm5q4i7KGTak/
 ### Certifications:
 
 <p align="left">
+     <a href="https://www.credly.com/badges/56e2295b-95e6-486c-9ccc-98d861e8639a/public_url" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/google-git-workflow.png" width="76" height="76" alt="google-git" /></a>
      <a href="https://www.credly.com/badges/06c733b1-dac7-4a79-af63-6d8d4793d472/public_url" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/pentest.png" width="76" height="76" alt="pentest" /></a>
       <a href="https://www.credly.com/badges/fa79245a-bc6a-4a31-b9b9-f57512e4c1c0/public_url" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/cysa.png" width="76" height="76" alt="cysa" /></a>
       <a href="https://www.credly.com/badges/867dd6d5-5be8-43d9-92a4-28935112cedf/public_url" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/cloud.png" width="76" height="76" alt="cloud" /></a>
