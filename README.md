@@ -1,16 +1,27 @@
-# Hi my name is Stephen
+# Hi there! 👋 I'm a Cloud & Linux Enthusiast
 
-Enthusiastic about Linux, Cloud technologies (Podman, RHEL), automation (Ansible, Bash), and development (Python, Java, C#). 
+I am a passionate technologist bridging the gap between development and operations. My focus is on building scalable infrastructure on Google Cloud Platform and automating complex workflows within Linux environments.
 
-* 🧠  I'm currently focused on learning AI, prompt enginering, cybersecurity and enhancing my Python skills.
+### 🛠️ Tech Stack
 
-## Resume available via Google Docs
+| Category       | Technologies                           |
+|---|---|
+| 🐧 OS & Linux  | RHEL, Fedora, Ubuntu                   |
+| ☁️ Cloud & IaC | Google Cloud Platform (GCP), Terraform |
+| 🤖 Automation  | Ansible, Bash, PowerShell              |
+| 💻 Languages   | Python, Java, C#                       |
 
-Seeking employment opportunities, particularly those outside of Canada or countries that offer work permit options.
+### 🚀 What I'm Up To
 
-https://docs.google.com/document/d/196hLf7FrQDuSaeHWiEuJIcC17CyI9uxfm5q4i7KGTak/edit?usp=sharing
+I love automating the boring stuff! Feel free to explore my repositories to see my IaC scripts and automation tools in action.
 
-### Certifications:
+### 💼 Open to Work
+
+I am currently seeking employment opportunities, specifically international roles or positions outside of Canada offering work permit sponsorship.
+
+📄 <a href="https://docs.google.com/document/d/196hLf7FrQDuSaeHWiEuJIcC17CyI9uxfm5q4i7KGTak/edit?usp=sharing" target="_blank" rel="noreferrer">View My Resume</a>
+
+### 🏆 Certifications
 
 <p align="left">
      <a href="https://www.credly.com/badges/56e2295b-95e6-486c-9ccc-98d861e8639a/public_url" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/google-git-workflow.png" width="76" height="76" alt="google-git" /></a>
@@ -30,7 +41,7 @@ https://docs.google.com/document/d/196hLf7FrQDuSaeHWiEuJIcC17CyI9uxfm5q4i7KGTak/
       <a href="https://www.credly.com/badges/8f5bab63-e4f3-4162-b004-ef5c4abf4f1f/public_url" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/cscp.png" width="76" height="76" alt="CSCP" /></a>           
 </p>
 
-### Development:
+### 💻 Development
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -46,7 +57,7 @@ https://docs.google.com/document/d/196hLf7FrQDuSaeHWiEuJIcC17CyI9uxfm5q4i7KGTak/
   <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/ansible.svg" width="36" height="36" alt="Python" /></a>
 </p>
 
-### System Administration:
+### ⚙️ System Administration
 
 <p align="left">
   <a href="https://www.microsoft.com/en-ca/windows" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/Windows_logo_-_2021.svg" width="36" height="36" alt="Windows" /><a>
@@ -54,7 +65,7 @@ https://docs.google.com/document/d/196hLf7FrQDuSaeHWiEuJIcC17CyI9uxfm5q4i7KGTak/
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /><a>
 </p>
 
-### Databases:
+### 🗄️ Databases
 
 <p align="left">
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/mssql.svg" width="36" height="36" alt="MsSQL" /></a>
@@ -62,7 +73,7 @@ https://docs.google.com/document/d/196hLf7FrQDuSaeHWiEuJIcC17CyI9uxfm5q4i7KGTak/
   <a href="https://mariadb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/mariadb.svg" width="36" height="36" alt="mariaDB" /></a>
 </p>
 
-### Design:
+### 🎨 Design
 
 <p align="left">
   <a href="https://www.adobe.com/ca/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BranchingBad/BranchingBad/refs/heads/main/images/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
