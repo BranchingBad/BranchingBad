@@ -17,7 +17,7 @@ I love automating the boring stuff! Feel free to explore my repositories to see 
 
 ### 💼 Open to Work
 
-I am currently seeking employment opportunities, specifically international roles or positions outside of Canada offering work permit sponsorship.
+I am currently seeking employment opportunities.
 
 📄 <a href="https://docs.google.com/document/d/196hLf7FrQDuSaeHWiEuJIcC17CyI9uxfm5q4i7KGTak/edit?usp=sharing" target="_blank" rel="noreferrer">View My Resume</a>
 
