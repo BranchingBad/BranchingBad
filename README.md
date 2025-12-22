@@ -15,6 +15,12 @@ I am a passionate technologist bridging the gap between development and operatio
 
 I love automating the boring stuff! Feel free to explore my repositories to see my IaC scripts and automation tools in action.
 
+### 💼 Open to Work
+
+I am currently seeking employment opportunities.
+
+📄 <a href="https://docs.google.com/document/d/196hLf7FrQDuSaeHWiEuJIcC17CyI9uxfm5q4i7KGTak/edit?usp=sharing" target="_blank" rel="noreferrer">View My Resume</a>
+
 ### 🏆 Certifications
 
 <p align="left">
